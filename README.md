@@ -1,5 +1,5 @@
 # hacknights
-A ideia do HackNights é pensar em soluções que visam melhorar a vida de pessoas do público GLBT*(Gays, Lésbicas, Bissexuais, Trans*).
+A ideia do HackNights é pensar em soluções que visam melhorar a vida de pessoas do público GLBT(Gays, Lésbicas, Bissexuais, Trans**).
 Vamos codando os projetos e/ou implementando outros projetos que já existem.
 
 # Como colaborar
@@ -16,3 +16,8 @@ Se você precisar de ajuda com github ou hangout, linux ou algo do tipo.
 Estamos totalmente aberto para poder ajudar.
 
 
+# Observação
+
+O termo trans pode ser a abreviação de várias palavras que expressam diferentes identidades, como transexual ou transgênero, ou até mesmo travesti.  Por isso, para evitar classificações que correm o risco de serem excludentes o asterisco é adicionado ao final da palavra transformando o termo trans em um termo guarda-chuva [umbrella term] – um termo englobador que estaria incluindo qualquer identidade trans “embaixo do guarda-chuva”. Daí a ideia do guarda-chuva. Além disso, o termo também pode incluir pessoas trans* que se identificam  dentro e/ou fora do sistema normativo binário de gênero, ou seja, da ideia normativa que temos de “masculino” e “feminino” que forma um binário.
+
+O uso do asterisco como um termo englobador, a meu ver, é menos estigmatizador e mais fluido, de modo que elimina classificações excludentes e abre também a possibilidade da pessoa se identificar como quiser. É importante ressaltar que a identidade é soberana e as pessoas trans* tem a palavra final quanto a sua própria identificação.

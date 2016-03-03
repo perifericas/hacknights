@@ -8,8 +8,6 @@ Para colaborar, basta ter interesse em participar, pode ser com códigos, com te
 
 Como o evento é em um hackerspace, que tem um local físico, um jeito de quem é de fora de Salvador ajudar é via hangout e submetendo as issues e PR's aqui no github
 
-O Projeto é pensando pelo coletivo das Periféricas e temos o apoio do Raul Hacker Club, mas estamos totalmente abertos para novas parcerias.
-
 Se você é Trans* junte-se a nós e vamos ajudar a criar uma sociedade melhor, se você não é junte-se também, toda ajuda é bem vinda.
 
 # Ajuda com github

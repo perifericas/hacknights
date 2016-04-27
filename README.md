@@ -1,5 +1,6 @@
-# hacknights
+# hackeando pela diversidade¹
 A ideia do Hackeando pela Diversidade é pensar em soluções que visam melhorar a vida de pessoas do público LGBT(Lésbicas, Gays, Bissexuais,  Trans**), mulheres cis e trans, como também pessoas portadoras de  necessidades especiais. Vamos codando os projetos e/ou implementando  outros projetos que já existem.
+¹Trocamos o nome do projeto de Hack Nights por Hackeando pela Diversidade para ampliar o público que não conhece o termo "hack" (ou possui um ideia errônea sobre hackers) e as que não conhecem o significado das palavras em inglês. 
 
 # Como colaborar
 
